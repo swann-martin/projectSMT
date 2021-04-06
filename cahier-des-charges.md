@@ -37,11 +37,9 @@ Au moyen d'une API de site de recherche d'emplois, le générateur de CV pourra,
 
 Notre différenciation : Prix, design, fonctionnalités.
 
-> Idées de nom de site : morpions, clams, weResumeyouWork, MyBestCV, ResumeMe, HelloCV, HiCV, HiResume
+> Idées de nom de site : weResumeyouWork, MyBestCV, ResumeMe, HelloCV, HiCV, HiResume
 
 ## Mapping de la concurrence
-
-[![Mapping de la concurrence](.\assets\mapping-concurentiel.png)](.\assets\mapping-concurentiel.png)
 
 ## Analyse SWOT
 
