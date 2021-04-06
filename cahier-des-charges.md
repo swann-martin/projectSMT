@@ -17,7 +17,7 @@ L'agence web SMT, spécialisée dans le développement de sites et applications 
 
 WebForce3 est spécialisée dans la formation de développeurs web. Les élèves issus de cette formation ne disposent pas tous de CVs numériques pour démontrer leurs compétences et postuler aux offres d'emploi de manière simple et pertinante. L'objectif est de mettre à leur disposition une application où ils disposeront de templates de CVs personnalisables, hébergés et dématerialisés pour postuler efficacement aux offres d'emploi.
 
-Après s'être connecté sur l'application Jummmp, l'utilisateur aura la possibilité de saisir ses informations personnelles (identité, compétences, formations, expériences, hobbies...). Ces informations persisteront sur une base de données sécurisée. Elles permettront de générer 3 propositions de CVs qui seront accessibles via un short-url ou un QR-Code.
+Après s'être connecté sur l'application Jummmp, l'utilisateur aura la possibilité de saisir ses informations personnelles (identité, compétences, formations, expériences, hobbies...). Ces informations persisteront sur une base de données sécurisée. Elles permettront de générer 3 propositions de CVs qui seront accessibles via un short-url d, email, lastName, firstName, avatar, streetAdress, postCode, city, phone, website, password.ou un QR-Code.
 
 Au moyen d'une API de site de recherche d'emplois, Jummmp pourra, rechercher des offres sur le marché du travail, en adéquation avec le CV qui a été généré.
 
@@ -41,13 +41,9 @@ Notre différenciation : rrix, designs, données hebergées, candidature démate
 
 > Idées de nom de site : weResumeyouWork, MyBestCV, ResumeMe, HelloCV, HiCV, HiResume, Jummmp.
 
-## Mapping de la concurrence
-
 ## **Mapping de la concurrence**
 
 ![mapping-concurentiel](/assets/CDC/mapping-concurentiel.png)
-
-![mapping-concurentiel](https://user-images.githubusercontent.com/71760899/113697062-03be4880-96d3-11eb-9c51-4f02fcef8a25.png)
 
 ## **Analyse SWOT**
 
