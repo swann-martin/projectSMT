@@ -1,4 +1,3 @@
-
 # Cahier des charges
 
 1.  Contextualisation
@@ -41,8 +40,8 @@ Notre différenciation : Prix, design, fonctionnalités.
 > Idées de nom de site : weResumeyouWork, MyBestCV, ResumeMe, HelloCV, HiCV, HiResume
 
 ## Mapping de la concurrence
-![mapping-concurentiel](https://user-images.githubusercontent.com/71760899/113697062-03be4880-96d3-11eb-9c51-4f02fcef8a25.png)
 
+![mapping-concurentiel](https://user-images.githubusercontent.com/71760899/113697062-03be4880-96d3-11eb-9c51-4f02fcef8a25.png)
 
 ## Analyse SWOT
 
@@ -134,8 +133,10 @@ Tous les recruteurs qui peuvent facilement consulter des viviers de CV en ligne.
 
 ## Identité visuelle
 
-- Design
-- Logo
-- Charte graphique : typographie jost pour les titres en bold 800 italic, poppins pour les textes.
+- Design : jeune, arrondis, icones, couleurs bleu, jaune orangé, forme de vagues
+- Logo : ressort
+- Charte graphique :
+  > 1. typographie jost pour les titres en bold 800 italic, poppins pour les textes.
+  > 2.
 
 ## Wireframe
