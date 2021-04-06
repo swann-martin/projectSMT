@@ -1,3 +1,4 @@
+![mapping-concurentiel](https://user-images.githubusercontent.com/71760899/113697028-facd7700-96d2-11eb-9819-a26edccb8f72.png)
 # Cahier des charges
 
 1.  Contextualisation
@@ -40,8 +41,8 @@ Notre différenciation : Prix, design, fonctionnalités.
 > Idées de nom de site : morpions, clams, weResumeyouWork, MyBestCV, ResumeMe, HelloCV, HiCV, HiResume
 
 ## Mapping de la concurrence
+![mapping-concurentiel](https://user-images.githubusercontent.com/71760899/113697062-03be4880-96d3-11eb-9c51-4f02fcef8a25.png)
 
-[![Mapping de la concurrence](.\assets\mapping-concurentiel.png)](.\assets\mapping-concurentiel.png)
 
 ## Analyse SWOT
 
