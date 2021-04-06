@@ -1,5 +1,4 @@
-
-# **```Jummmp - Cahier des charges```**
+# **`Jummmp - Cahier des charges`**
 
 1.  Contextualisation
 2.  Problématique de communication
@@ -10,24 +9,23 @@
 7.  Planning de réalisation
 8.  Structure
 
-# ```1. Contextualisation```
+# `1. Contextualisation`
 
 ## **Concept**
 
-L'agence web SMT, spécialisée dans le développement de sites et applications web a été mandatée par le client Webforce3 pour développer un générateur de CVs en ligne.  
-  
-WebForce3 est spécialisée dans la formation de développeurs web. Les élèves issus de cette formation ne disposent pas tous de CVs numériques pour démontrer leurs compétences et postuler aux offres d'emploi de manière simple et pertinante. L'objectif est de mettre à leur disposition une application où ils disposeront de templates de CVs personnalisables, hébergés et dématerialisés pour postuler efficacement aux offres d'emploi.  
-  
-Après s'être connecté sur l'application Jummmp, l'utilisateur aura la possibilité de saisir ses informations personnelles (identité, compétences, formations, expériences, hobbies...). Ces informations persisteront sur une base de données sécurisée. Elles permettront de générer 3 propositions de CVs qui seront accessibles via un short-url ou un QR-Code.  
-  
-Au moyen d'une API de site de recherche d'emplois, Jummmp pourra, rechercher des offres sur le marché du travail, en adéquation avec le CV qui a été généré.  
-  
-  > Options :
+L'agence web SMT, spécialisée dans le développement de sites et applications web a été mandatée par le client Webforce3 pour développer un générateur de CVs en ligne.
+
+WebForce3 est spécialisée dans la formation de développeurs web. Les élèves issus de cette formation ne disposent pas tous de CVs numériques pour démontrer leurs compétences et postuler aux offres d'emploi de manière simple et pertinante. L'objectif est de mettre à leur disposition une application où ils disposeront de templates de CVs personnalisables, hébergés et dématerialisés pour postuler efficacement aux offres d'emploi.
+
+Après s'être connecté sur l'application Jummmp, l'utilisateur aura la possibilité de saisir ses informations personnelles (identité, compétences, formations, expériences, hobbies...). Ces informations persisteront sur une base de données sécurisée. Elles permettront de générer 3 propositions de CVs qui seront accessibles via un short-url ou un QR-Code.
+
+Au moyen d'une API de site de recherche d'emplois, Jummmp pourra, rechercher des offres sur le marché du travail, en adéquation avec le CV qui a été généré.
+
+> Options :
 
 - vérifier la corrélation via webScrapping.
 - service d'envoi par mail aux employeurs avec un template de lettre de motivation.
-- possibilité de récupérer le CV en pdf, de l'imprimer, de l'envoyer par email.  
-  
+- possibilité de récupérer le CV en pdf, de l'imprimer, de l'envoyer par email.
 
 ## **Présentation de la concurrence**
 
@@ -44,20 +42,22 @@ Notre différenciation : rrix, designs, données hebergées, candidature démate
 > Idées de nom de site : weResumeyouWork, MyBestCV, ResumeMe, HelloCV, HiCV, HiResume, Jummmp.
 
 ## Mapping de la concurrence
+
 ## **Mapping de la concurrence**
+
 ![mapping-concurentiel](/assets/CDC/mapping-concurentiel.png)
 
 ![mapping-concurentiel](https://user-images.githubusercontent.com/71760899/113697062-03be4880-96d3-11eb-9c51-4f02fcef8a25.png)
 
 ## **Analyse SWOT**
 
-| Force / Strength              | Faiblesse / Weakness                 |
-| ----------------------------- | ------------------------------------ |
+| Force / Strength         | Faiblesse / Weakness                 |
+| ------------------------ | ------------------------------------ |
 | Design graphique moderne | Hébergement limité                   |
-| Approche UX                   | Templates limités                    |
-| Simplicité d'utilisation      | Contrainte de temps                  |
-| Hébérgement                   | Connexion moteur de recherche limité |
-| Prix attractif (gratuit)      |                                      |
+| Approche UX              | Templates limités                    |
+| Simplicité d'utilisation | Contrainte de temps                  |
+| Hébérgement              | Connexion moteur de recherche limité |
+| Prix attractif (gratuit) |                                      |
 
 | Opportunités / Opportunities                          | Menaces / Threats                                        |
 | ----------------------------------------------------- | -------------------------------------------------------- |
@@ -67,7 +67,7 @@ Notre différenciation : rrix, designs, données hebergées, candidature démate
 | Offre complète, prix, hébergement, clé en main        | Tarif des hébergeurs potentiellement dangereux pour nous |
 |                                                       |                                                          |
 
-# ```2. Problématique de communication```
+# `2. Problématique de communication`
 
 ## **Synthèse**
 
@@ -75,7 +75,7 @@ Nos analyses ont permis de démontrer que les concurrents principaux ne proposen
 
 Comment faire connaître une application web pour qu'il puisse permettre aux demandeurs d'emploi d'héberger en ligne, des CV qui soient attractifs pour les recruteurs ?
 
-# ```3. Stratégie de communication```
+# `3. Stratégie de communication`
 
 ## **Positionnement**
 
@@ -106,7 +106,7 @@ Les développeurs web en sortie de formation ou en recherche d'emploi, désireux
 **Cible secondaire :**
 Les recruteurs qui peuvent facilement consulter des viviers de CVs en ligne.
 
-# ```4. Stratégie créative```
+# `4. Stratégie créative`
 
 ## **Promesses, preuves, tons et contraintes**
 
@@ -118,26 +118,28 @@ Les recruteurs qui peuvent facilement consulter des viviers de CVs en ligne.
 
 **Contraintes :** La conservation des données, par l'utilisation de technologies sûres, devra se conformer aux contraintes de la législation (RGPD) et d'accessibilité (RGAA & SEO), le choix du serveur pour la scallabilité et un nombre croissant d'utilisateurs.
 
-# ```5. Stratégie des moyens```
+# `5. Stratégie des moyens`
 
-| Col1                               | Col2                                     | Col3                                                                                                                                                                                                                                                                                                                                                                                   |
-| ---------------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Structure web**               | 15 pages                           | connexion, inscription, dashboard, interfaces (fonction, image, xp pro, formation, hobbies), profil, visualisation (URL + PDF), RGPD, FAQ, CGV, CGU, plan du site. |
-| **Base de données**             | Table User                               | id, email, lastName, firstName, avatar, streetAdress, postCode, city, phone, website, password.                                                                                                                                                                                                                                                                                        |
-| **Base de données**             | Table Xp                                 | id, jobDateFrom, jobDateTo, jobName, companyName, jobLocation, jobDescritpion, foreign key userId                                                                                                                                                                                                                                                                                      |
-| **Base de données**             | Table CV                                 | id, model, title, function, about, createdAt, updatedAt, shortUrl, foreign key userId                                                                                                                                                                                                                                                                                                  |
-| **Base de données**             | Table Training                           | id, trainingDateFrom, trainingDateTo, diplomaName, schoolName, schoolLocation, diplomaDescritpion, foreign key userId                                                                                                                                                                                                                                                                  |
-| **Base de données**             | Table Hobbies                            | id, icons, hobbiesName, foreign key userId                                                                                                                                                                                                                                                                                                                                             |
-| **Hébergement**                  | Sécurisé                                 | Serveur (Apache) Heroku, Symfony Cloud, platform SH, Php, MySql / MariaDB                                                                                                                                                                                                                                                                                                              |
-| **Référencement et accessibilité** | Google friendly, SEO - RGAA | Lightouse et respect des règles Opquast.                                                                                                                                                                                                                                                                                                                                                |
+| Col1                               | Col2                        | Col3                                                                                                                                                               |
+| ---------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Structure web**                  | 15 pages                    | connexion, inscription, dashboard, interfaces (fonction, image, xp pro, formation, hobbies), profil, visualisation (URL + PDF), RGPD, FAQ, CGV, CGU, plan du site. |
+| **Base de données**                | Table User                  | id, email, lastName, firstName, avatar, streetAdress, postCode, city, phone, website, password.                                                                    |
+| **Base de données**                | Table Xp                    | id, jobDateFrom, jobDateTo, jobName, companyName, jobLocation, jobDescritpion, foreign key userId                                                                  |
+| **Base de données**                | Table CV                    | id, model, title, function, about, createdAt, updatedAt, shortUrl, foreign key userId                                                                              |
+| **Base de données**                | Table Training              | id, trainingDateFrom, trainingDateTo, diplomaName, schoolName, schoolLocation, diplomaDescritpion, foreign key userId                                              |
+| **Base de données**                | Table Hobbies               | id, icons, hobbiesName, foreign key userId                                                                                                                         |
+| **Hébergement**                    | Sécurisé                    | Serveur (Apache) Heroku, Symfony Cloud, platform SH, Php, MySql / MariaDB                                                                                          |
+| **Référencement et accessibilité** | Google friendly, SEO - RGAA | Lightouse et respect des règles Opquast.                                                                                                                           |
 
-# ```6. Budget```
+# `6. Budget`
+
 ![Image Title](/assets/CDC/budget.jpg)
 
-# ```7. Planning de réalisation```
+# `7. Planning de réalisation`
+
 ![Image Title](/assets/CDC/planning.jpg)
 
-# ```8. Structure```
+# `8. Structure`d, email, lastName, firstName, avatar, streetAdress, postCode, city, phone, website, password.
 
 ## **Identité visuelle**
 
@@ -146,13 +148,13 @@ Les recruteurs qui peuvent facilement consulter des viviers de CVs en ligne.
 - Charte graphique : Jost pour les titres en bold 800 italic, Poppins pour les textes.
 
 ## **Wireframe**
+
 -
 
-# **```Let's connect 🔗```**
+# **`Let's connect 🔗`**
 
-| L'agence SMT|  | 
-| ----------------------------- | ---------------------------- |
-| Swann **Martin** | [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/thomasbarnab%C3%A9/) | 
-| Michael **Krysztofiak** | [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/thomasbarnab%C3%A9/) | 
-| Thomas **Barnabé** | [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/thomasbarnab%C3%A9/) | 
-
+| L'agence SMT            |                                                                                                                                                                      |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Swann **Martin**        | [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/thomasbarnab%C3%A9/) |
+| Michael **Krysztofiak** | [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/thomasbarnab%C3%A9/) |
+| Thomas **Barnabé**      | [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/thomasbarnab%C3%A9/) |
