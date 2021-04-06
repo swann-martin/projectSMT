@@ -1,4 +1,4 @@
-![mapping-concurentiel](https://user-images.githubusercontent.com/71760899/113697028-facd7700-96d2-11eb-9819-a26edccb8f72.png)
+
 # Cahier des charges
 
 1.  Contextualisation
