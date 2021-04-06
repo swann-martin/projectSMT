@@ -43,10 +43,7 @@ Notre différenciation : Prix, design, fonctionnalités.
 ## Mapping de la concurrence
 ![mapping-concurentiel](https://user-images.githubusercontent.com/71760899/113697062-03be4880-96d3-11eb-9c51-4f02fcef8a25.png)
 
-<<<<<<< HEAD
-=======
 
->>>>>>> a41dc28f648e4cfeaab787d7e03cc251935305e4
 ## Analyse SWOT
 
 | Force / Strength              | Faiblesse / Weakness                 |
