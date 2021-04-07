@@ -135,7 +135,7 @@ Les recruteurs qui peuvent facilement consulter des viviers de CVs en ligne.
 
 ![Image Title](/assets/CDC/planning.jpg)
 
-# `8. Structure`d, email, lastName, firstName, avatar, streetAdress, postCode, city, phone, website, password.
+# `8. Structure`
 
 ## **Identité visuelle**
 
